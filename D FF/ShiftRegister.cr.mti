@@ -1,0 +1,15 @@
+{E:/University/Digital System/Project/Shift Register/TestBenchFinal.v} {1 {vlog -work work -vopt -stats=none {E:/University/Digital System/Project/Shift Register/TestBenchFinal.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} {E:/University/Digital System/Project/Shift Register/Shift.v} {1 {vlog -work work -vopt -stats=none {E:/University/Digital System/Project/Shift Register/Shift.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Shift
+
+Top level modules:
+	Shift
+
+} {} {}}
