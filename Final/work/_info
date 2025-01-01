@@ -1,0 +1,249 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/University/Term 5/System Project/Shift Reg condition
+T_opt
+!s110 1735649037
+VOlQje1ca2z3[emVzAJhSe3
+04 9 4 work TestBench fast 0
+=1-b81ea4cd4783-6773e70d-1ee-41fc
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2019.4;69
+T_opt1
+!s110 1735566000
+V[2m3B8aAfNLRDTLFnRXlJ1
+04 12 4 work shift_reg_tb fast 0
+=1-b81ea4cd4783-6772a2b0-23f-2768
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1735628971
+V_n_6QISGl7_1h5:N3lVI11
+04 12 4 work tb_shift_reg fast 0
+=1-b81ea4cd4783-677398ab-11-5968
+R1
+R2
+n@_opt2
+R3
+R0
+vcombine
+Z4 !s110 1735565983
+!i10b 1
+!s100 gC^C1oIlZk0>W:=0<GCAJ3
+!s11b WW24Fg_J[[5W=4WfTR>8n1
+IILf_[hW1UYUOQ9A^CO?fl0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/University/Term 5/System Project
+Z7 w1735565876
+8D:/University/Term 5/System Project/Combine.v
+FD:/University/Term 5/System Project/Combine.v
+!i122 -1
+L0 1
+Z8 OL;L;2019.4;69
+r1
+!s85 0
+31
+Z9 !s108 1735565983.000000
+!s107 D:/University/Term 5/System Project/Combine.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/Combine.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vregister
+R4
+!i10b 1
+!s100 Vc6gKV94<_>2Y>DMj;nl82
+!s11b SnBhQjMCRQWIRR3OWj3;;3
+IK@f0?[ARI8ZaV_Hb:Oz920
+R5
+R6
+R7
+8D:/University/Term 5/System Project/Register.v
+FD:/University/Term 5/System Project/Register.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/University/Term 5/System Project/Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/Register.v|
+!i113 0
+R10
+R2
+vShift
+Z11 !s110 1735557108
+!i10b 1
+!s100 6QmnZJj5;PD`8Z>[cfAT92
+!s11b Qz[QCJ:o_znhXzh<79:=@1
+IFH=9525>;8D98cHel]^R00
+R5
+R6
+w1735554284
+8D:/University/Term 5/System Project/D/Shift.v
+FD:/University/Term 5/System Project/D/Shift.v
+!i122 -1
+L0 3
+R8
+r1
+!s85 0
+31
+Z12 !s108 1735557108.000000
+!s107 D:/University/Term 5/System Project/D/Shift.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/D/Shift.v|
+!i113 0
+R10
+R2
+n@shift
+vshift_reg
+Z13 !s110 1735628950
+!i10b 1
+!s100 HLIi@SO4nA9NTG`WlF8RU1
+!s11b aRn1z<dV`@kMQfEA]GRR^3
+I]@NMKUWCBM?FY^IDO[]?H1
+R5
+R6
+w1735628931
+8D:/University/Term 5/System Project/Shift Reg loop/shitfregloop.v
+FD:/University/Term 5/System Project/Shift Reg loop/shitfregloop.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+Z14 !s108 1735628950.000000
+!s107 D:/University/Term 5/System Project/Shift Reg loop/shitfregloop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/Shift Reg loop/shitfregloop.v|
+!i113 0
+R10
+R2
+vshift_reg_tb
+R4
+!i10b 1
+!s100 kPAFo=fk:8Q<i6FW4F[F[0
+!s11b `:13cQ63<:bRA<Rg_^@iz1
+I09M0W_5]FH3c1<`cKda_[3
+R5
+R6
+R7
+8D:/University/Term 5/System Project/TestBench3.v
+FD:/University/Term 5/System Project/TestBench3.v
+!i122 -1
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/University/Term 5/System Project/TestBench3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/TestBench3.v|
+!i113 0
+R10
+R2
+vshift_register_jk
+R11
+!i10b 1
+!s100 MgaPHb;9?DM`XU?QR3OBc3
+!s11b T[6zeEoEYZHLCUn@<Gjhi2
+IZYfdO5=Gji@aafTZE=l:S0
+R5
+R6
+Z15 w1735542983
+8D:/University/Term 5/System Project/JK/JK-REG.v
+FD:/University/Term 5/System Project/JK/JK-REG.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+R12
+!s107 D:/University/Term 5/System Project/JK/JK-REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/JK/JK-REG.v|
+!i113 0
+R10
+R2
+vtb_shift_reg
+R13
+!i10b 1
+!s100 <BN@_PQWI<Q_fdFcLN<i?0
+!s11b dLjnX6bXePEOlzPA16SlV2
+I5I5K:TcVjDG06<k:;OWol3
+R5
+R6
+w1735628879
+8D:/University/Term 5/System Project/Shift Reg loop/shiftreglooptest.v
+FD:/University/Term 5/System Project/Shift Reg loop/shiftreglooptest.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+R14
+!s107 D:/University/Term 5/System Project/Shift Reg loop/shiftreglooptest.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/Shift Reg loop/shiftreglooptest.v|
+!i113 0
+R10
+R2
+vtb_shift_register_jk
+R11
+!i10b 1
+!s100 XZ3QcQ`;:`fm8BzA[QH7[0
+!s11b 3>Hkl:hFYhYd`LH3V=dJi3
+I`JFUZiSN30AG8XIL03geW3
+R5
+R6
+R15
+8D:/University/Term 5/System Project/JK/JK-TST.v
+FD:/University/Term 5/System Project/JK/JK-TST.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+R12
+!s107 D:/University/Term 5/System Project/JK/JK-TST.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/JK/JK-TST.v|
+!i113 0
+R10
+R2
+vTestBench
+R11
+!i10b 1
+!s100 ljP_BBH9MR1[9i2=MM4oj3
+!s11b 3z0cNF?l4dm3eaD@H0km@3
+IEFIVC498T1VWTz;:iE:V<0
+R5
+R6
+w1735555888
+8D:/University/Term 5/System Project/D/TestBenchFinal.v
+FD:/University/Term 5/System Project/D/TestBenchFinal.v
+!i122 -1
+L0 3
+R8
+r1
+!s85 0
+31
+R12
+!s107 D:/University/Term 5/System Project/D/TestBenchFinal.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/D/TestBenchFinal.v|
+!i113 0
+R10
+R2
+n@test@bench
