@@ -1,0 +1,24 @@
+module shift_reg (
+    input wire [3:0] d_in, // Data input
+    input wire s_cnt,      // Shift enable
+    input wire sr,         // Shift right
+    input wire sl,         // Shift left
+    input wire ld,         // Load enable
+    input wire clk,        // Clock signal
+    input wire rst,        // Reset signal
+    output reg [3:0] q     // Output register
+);
+    always @(posedge clk or posedge rst) begin
+        if (rst) begin
+            q <= 4'b0000; // Reset output to 0
+        end else if (ld) begin
+            q <= d_in;    // Load input data
+        end else if (s_cnt) begin
+            if (sr) begin
+                q <= {1'b0, q[3:1]}; // Shift right
+            end else if (sl) begin
+                q <= {q[2:0], 1'b0}; // Shift left
+            end
+        end
+    end
+endmodule

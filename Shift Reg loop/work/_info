@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2019.4/examples
+T_opt
+!s110 1735551625
+VEfK0UTK19zffjBkEeU8[K0
+04 12 4 work tb_shift_reg fast 0
+=1-b81ea4cd4783-67726a89-237-86c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+vshift_reg
+Z1 !s110 1735551606
+!i10b 1
+!s100 HLIi@SO4nA9NTG`WlF8RU1
+!s11b aRn1z<dV`@kMQfEA]GRR^3
+I]@NMKUWCBM?FY^IDO[]?H1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/University/Term 5/System Project/Shift Reg loop
+w1735551584
+8D:/University/Term 5/System Project/Shift Reg loop/shitfregloop.v
+FD:/University/Term 5/System Project/Shift Reg loop/shitfregloop.v
+!i122 -1
+L0 1
+Z4 OL;L;2019.4;69
+r1
+!s85 0
+31
+Z5 !s108 1735551606.000000
+!s107 D:/University/Term 5/System Project/Shift Reg loop/shitfregloop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/Shift Reg loop/shitfregloop.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_shift_reg
+R1
+!i10b 1
+!s100 JRSml4[YN[a0A[E6SM>hF2
+!s11b ZDE2NP[;2i@1aSG54:PGB2
+IPPP<;Jg@J9@_N:J1jnbhR1
+R2
+R3
+w1735551599
+8D:/University/Term 5/System Project/Shift Reg loop/shiftreglooptest.v
+FD:/University/Term 5/System Project/Shift Reg loop/shiftreglooptest.v
+!i122 -1
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/University/Term 5/System Project/Shift Reg loop/shiftreglooptest.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/Shift Reg loop/shiftreglooptest.v|
+!i113 0
+R6
+R0

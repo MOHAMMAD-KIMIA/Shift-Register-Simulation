@@ -1,0 +1,67 @@
+m255
+K4
+z2
+!s11e vcom 2019.4 2019.10, Oct 15 2019
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/University/Term 5/Digital/shift registr test
+T_opt
+!s110 1735543026
+VF]AdI^_iOJ6iM865?6hgD3
+04 20 4 work tb_shift_register_jk fast 0
+=1-b81ea4cd4783-677248f2-cd-66c0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+vshift_register_jk
+!s110 1735543013
+!i10b 1
+!s100 MgaPHb;9?DM`XU?QR3OBc3
+!s11b T[6zeEoEYZHLCUn@<Gjhi2
+IZYfdO5=Gji@aafTZE=l:S0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/University/Term 5/System Project/JK
+Z3 w1735542983
+8D:/University/Term 5/System Project/JK/JK-REG.v
+FD:/University/Term 5/System Project/JK/JK-REG.v
+!i122 -1
+L0 1
+Z4 OL;L;2019.4;69
+r1
+!s85 0
+31
+Z5 !s108 1735543013.000000
+!s107 D:/University/Term 5/System Project/JK/JK-REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/JK/JK-REG.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vtb_shift_register_jk
+!s110 1735543014
+!i10b 1
+!s100 XZ3QcQ`;:`fm8BzA[QH7[0
+!s11b 3>Hkl:hFYhYd`LH3V=dJi3
+I`JFUZiSN30AG8XIL03geW3
+R1
+R2
+R3
+8D:/University/Term 5/System Project/JK/JK-TST.v
+FD:/University/Term 5/System Project/JK/JK-TST.v
+!i122 -1
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/University/Term 5/System Project/JK/JK-TST.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/University/Term 5/System Project/JK/JK-TST.v|
+!i113 0
+R6
+R0
